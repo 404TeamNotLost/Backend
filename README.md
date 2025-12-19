@@ -226,17 +226,3 @@ Backend/
 └── README.md                 # Этот файл
 ```
 
-## Контрибьютинг
-
-1. Сделайте форк репозитория.
-2. Создайте ветку (`git checkout -b feature/ваша-фича`).
-3. Внесите изменения (`git commit -m "Добавлена фича"`).
-4. Запушьте (`git push origin feature/ваша-фича`).
-5. Откройте Pull Request.
-
-## Полезные ссылки
-[Frontend](https://github.com/fried-boiled-onions/authorisation-messenger-frontend)
-
-## Лицензия
-
-Проект распространяется под лицензией MIT. Подробности в файле LICENSE.
